@@ -15,6 +15,7 @@ namespace IntermiaditeGit.Controllers
 
         public ActionResult About()
         {
+            //Commiting chnages in dev branch
             ViewBag.Message = "Your application description page.";
 
             return View();
