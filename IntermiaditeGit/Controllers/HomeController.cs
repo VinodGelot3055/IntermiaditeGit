@@ -15,7 +15,7 @@ namespace IntermiaditeGit.Controllers
 
         public ActionResult About()
         {
-            //Commiting chnages in dev branch
+            //Commiting chnages in dev branch t
             ViewBag.Message = "Your application description page.";
             //a new commite
             return View();
